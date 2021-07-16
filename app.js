@@ -33,25 +33,6 @@
 // var word = prompt('enter any word')
 // console.log(word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// chapter 35 to 38
-
 // function myFunction(){
 //     var date = new Date()
 //     console.log(date)
